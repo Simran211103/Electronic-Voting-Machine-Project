@@ -1,8 +1,7 @@
-# Electronic Voting Machine with Plagiarism Detection
+
 
 # Electronic Voting Machine with Plagiarism Detection
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 Welcome to the Electronic Voting Machine with Plagiarism Detection project! This Arduino-based application provides a secure and efficient way to conduct electronic voting while also preventing false votes through plagiarism detection. It utilizes IR and touch sensors for vote verification.
 
@@ -11,12 +10,8 @@ Welcome to the Electronic Voting Machine with Plagiarism Detection project! This
 1. [Features](#features)
 2. [Getting Started](#getting-started)
     - [Hardware Setup](#hardware-setup)
-    - [Software Setup](#software-setup)
     - [Usage](#usage)
-3. [How It Works](#how-it-works)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+3. [Contact](#contact)
 
 ## Features
 
@@ -34,19 +29,6 @@ Welcome to the Electronic Voting Machine with Plagiarism Detection project! This
 
 2. Connect the touch sensor to the Arduino according to the pin configuration in the code.
 
-### Software Setup
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/your-username/evm-plagiarism-detection.git
-    ```
-
-2. Open the Arduino IDE.
-
-3. Load the `evm_plagiarism_detection.ino` sketch from the `arduino_code` directory.
-
-4. Upload the sketch to your Arduino board.
 
 ### Usage
 
